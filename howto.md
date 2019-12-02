@@ -1,11 +1,13 @@
 ---
 layout: concertina
-title: HowTo
+title: How To
+description: Beginners' Guides to...
 ---
 
-# HowTo Pages
+# {{ page.title }}
 
-Beginners' Guides to...
+{:.subtitle}
+{{ page.description }}
 
 | Title | Description |
 |-------|-------------|
